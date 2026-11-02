@@ -1,0 +1,8 @@
+[submodule "ambient-provider"]
+	path = ambient-provider
+	url = https://github.com/NVIDIA-AI-Blueprints/ambient-provider.git
+	branch = main
+[submodule "ambient-patient"]
+	path = ambient-patient
+	url = https://github.com/NVIDIA-AI-Blueprints/ambient-patient.git
+	branch = main
