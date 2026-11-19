@@ -1,5 +1,20 @@
 # Ambient Healthcare Agents Developer Example
 
+<!-- frontend:start -->
+## Project explorer
+
+A browsable front end for this repository, built from its own README, Compose files, dependency manifests and folder layout. Clone the repository and open `frontend/index.html` in a browser to explore it.
+
+| Overview | Architecture |
+|---|---|
+| ![Overview](docs/frontend/overview.png) | ![Architecture](docs/frontend/architecture.png) |
+
+| Tech stack | Files |
+|---|---|
+| ![Tech stack](docs/frontend/stack.png) | ![Files](docs/frontend/files.png) |
+<!-- frontend:end -->
+
+
 **Build advanced AI agents for providers and patients using this developer example powered by NeMo Microservices, NVIDIA Nemotron, Riva ASR and TTS, and NVIDIA LLM NIM**
 
 ---
